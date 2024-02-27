@@ -1,0 +1,3774 @@
+[
+  {
+    "Textured": {
+      "texture": "dockp01k.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01m.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01n.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01l.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01p.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01r.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01o.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01s.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01t.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01j.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01q.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01c.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01b.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01g.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01d.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01e.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01w1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01v4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01v6.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01v5.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01v2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dhint4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dhint3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dhint1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dhint2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 205.0,
+        "g": 205.0,
+        "b": 255.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "liteh02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "liteh03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "palm02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "palm01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "palm04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "palm03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "burnt3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "burnt4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "burnt2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "burnt1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 243.0,
+        "g": 97.0,
+        "b": 0.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sandveg1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 127,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dockp01u.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "pier.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bar1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "pblb.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tra.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sandbag.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sandtopb.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gull01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gfly01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgen3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate5.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate6.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 254.0,
+        "g": 15.0,
+        "b": 15.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate7.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgen1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgen2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgen4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01d.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powrband.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate8.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall6.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "frcgate1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sechall3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "intun2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "intun1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 84,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gas6.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gas9.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 102,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel13.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel18.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel16.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fuel10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fueld03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lflare1",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bwall01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bwallbad.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powrwal1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powrdest.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate15.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate13.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sechall2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate19.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sechall1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1gate16.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "comstat4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "holoside1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "prjctr04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "holorec1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "prjctr02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "holoside3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 134.0,
+        "g": 0.0,
+        "b": 26.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "holobeam.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "holoside2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tracer1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "holsheld.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tracer.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsroad9.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "prjctr06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsand1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bwall04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "intun5.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "reta06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsroad3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powrwal2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1cliff1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall9.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powrwal3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1rock2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1rock1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "reta07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "reta10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powrstak.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 79.0,
+        "g": 0.0,
+        "b": 47.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli03b.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli15a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli02a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli05a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli13a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli17b.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heli16a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hel01f.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hel01b.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hel01e.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hel01d.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hel01a.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 222.0,
+        "g": 13.0,
+        "b": 7.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01g.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01f.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rokt01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01i.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tsmok1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fire101.tif",
+      "specular": 7e-45,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01e.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01c.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rkt01b.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bigwav03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bigwav02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bigwav01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hyroglyf.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "aztec04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptlite01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur_d03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur_d02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ptur_d01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sam10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nbeach3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nbeach2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ocean1.tif",
+      "specular": 1e-45,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nbeach1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 127.0,
+        "g": 0.0,
+        "b": 255.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scliftrn1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "m1sky1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hotchik1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hotchik2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 8.0,
+        "g": 24.0,
+        "b": 34.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 169.0,
+        "g": 193.0,
+        "b": 163.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsroad1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sandstan.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsroad2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scliftrn2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsand2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsrd10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mnsand5.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 134.0,
+        "g": 80.0,
+        "b": 0.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall5.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "intun6.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "cemwall1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "surf01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 33.0,
+        "b": 34.0
+      },
+      "alpha": 0,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "reta05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "reta01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "reta03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "store01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "store02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hwall2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nosoilwater.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "muzz_grn.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "muzz_red.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rarm.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rtorso.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rbicep.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rcalf.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hand2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hand1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rthigh.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "grey.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rhelm.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "dsquish1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 151.0,
+        "b": 151.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 255.0,
+        "b": 255.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 209.0,
+        "b": 178.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 224.0,
+        "b": 178.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 205.0,
+        "b": 205.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 134.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 32.0,
+        "g": 39.0,
+        "b": 34.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 215.0,
+        "g": 86.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 118.0,
+        "g": 129.0,
+        "b": 129.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 243.0,
+        "g": 194.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 59.0,
+        "g": 76.0,
+        "b": 77.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 102.0,
+        "g": 215.0,
+        "b": 193.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 186.0,
+        "g": 237.0,
+        "b": 237.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 40.0,
+        "g": 41.0,
+        "b": 38.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 215.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 69.0,
+        "b": 69.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 233.0,
+        "g": 204.0,
+        "b": 212.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 254.0,
+        "g": 176.0,
+        "b": 124.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 254.0,
+        "g": 111.0,
+        "b": 15.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 96.0,
+        "g": 96.0,
+        "b": 255.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 151.0,
+        "g": 151.0,
+        "b": 255.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mortgun2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mortar.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "freon_fo.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 151.0,
+        "g": 151.0,
+        "b": 205.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mine_ph1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mine_ph2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mine_rem.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "beamred.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "beamyelo.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sonicfly.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "arcgun01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "missil01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "missil02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "missil04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "missil05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tg_nuk02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lo_nuk01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tg_nuk03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tg_nuk01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "turb01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exhaust.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "fire102.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 255.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bsmok1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "wsmok1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bsmkring.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "wsmkring.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rsmkring.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "splashbase.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bsplsh02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vid01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "crate01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "expf01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bunk01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "boxexp05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnchr2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ash_dirt.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lav_dirt.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "snow_dirt.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sulph_dirt.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "splashup.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "powerdstb.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 255.0,
+        "g": 216.0,
+        "b": 3.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bsplsh14.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "watexp01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bubble.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nuke00.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "firing01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "sizzle.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "shatter3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "shatter2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "shatter1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exb01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exy01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "wsmok2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exg01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exr01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "exp_med03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "expflash.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "flarefirey.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "flareblue.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bxxpld.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "bardest.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ldeshocker.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ldesphere.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "parachute.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_son1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nlitening.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 52.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "regen01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 153,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tanktrak.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "alpha": 76,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tanktrks.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankside.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankback.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tanktop.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tanklite.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankbotm.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankgn02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankgn03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankgn04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankgn01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankgn05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_nap4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "rfpgscl.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "erfpgscl.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mort03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mort01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mort02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "phemgun1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_nap1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_fre1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lgun01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lgun04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lgun02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lgun03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ldgun01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ldgun04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ldgun02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ldgun03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "arcgun02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_son3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_son2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "missil03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "tankwing.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol14.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol15.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "heatshm1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol13.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vtol10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "com08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "scout07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 220.0,
+        "g": 136.0,
+        "b": 186.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 107.0,
+        "g": 85.0,
+        "b": 0.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "blst0001.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "drone07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "trnch11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "locktrak.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lockon13.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napm02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ntur11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napm04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napm03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napm05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napm06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napm01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "minelay2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "minelay4.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "minelay3.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "minelay1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_map02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_map04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_map03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_map05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_map01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_map06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 52.0,
+        "g": 0.0,
+        "b": 21.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "vw_dest1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi04.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi16.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi05.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi03.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi00.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi14.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi12.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi15.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi13.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi11.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi09.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi10.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi07.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi06.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi08.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi21.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi17.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi19.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi20.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "semi18.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ammolock.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Colored": {
+      "color": {
+        "r": 63.0,
+        "g": 15.0,
+        "b": 254.0
+      },
+      "alpha": 255,
+      "specular": 0.0
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mortammo2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "mortammo1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "freonammo.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "napammo.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ammolasdes.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ammolaser.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ammosonic.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "ammoarcgun.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lomissammo2.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "lomissammo1.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "gun_nap5.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nanocan.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nanite100.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "nanite.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "amphchip.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hovchp02.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "hovchp01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  },
+  {
+    "Textured": {
+      "texture": "subchp01.tif",
+      "specular": 0.0,
+      "flag": false
+    }
+  }
+]
